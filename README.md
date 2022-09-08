@@ -1,4 +1,4 @@
-# XGBoost-Learning-for-Explainable-AI-Financial-Market-Traders
+# XGBoost Learning for Explainable AI Financial Market Traders
 This project is for the graduation project in MSc Data Science at the University of Bristol
 
 In recent decades, the stock market has gradually prospered as people's incomes have increased in general. Its nature of high returns has attracted a large number of investment institutions and individual investors to engage in the stock market, and its increasingly irreplaceable role in economic development has also drawn a number of scholars to carry out various studies in the hope of exploring ideal models and feasible methods for the prediction of stock market-related issues. Moreover, the rapid development of artificial intelligence has led to the promotion of the theory of machine learning as well, which has been widely used in various practical applications including the field of stock market and has resulted in a boom in machine learning.
